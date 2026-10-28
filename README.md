@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Arsh 👋
 
-<!--
-**arshddhaliwal/arshddhaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder building AI products for finance and compliance, based in New Jersey. I ship end to end in Python, TypeScript and SQL, and I work directly with customers from discovery to go-live.
 
-Here are some ideas to get you started:
+- **420Ledger**: accounting and tax platform for cannabis businesses, with Claude-powered transaction categorization and human-in-the-loop review *(private, production code)*
+- **Trellflow**: receivables and collections platform built on Metrc regulatory data for NY and NJ suppliers *(private, production code)* · [trellflow.com](https://trellflow.com)
+- **Now:** M.Eng. in Applied Data Science at Stevens Institute of Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Public projects
+
+| Project | What it is | Try it |
+|---|---|---|
+| [sleeper-dashboard](https://github.com/arshddhaliwal/sleeper-dashboard) | Fantasy football analytics: league-accurate scoring, lineup optimizer, trade engine, multi-season timelines | [Live demo](https://sleeper-dashboard-nine.vercel.app/?demo=1) |
+| [memecoin-scanner](https://github.com/arshddhaliwal/memecoin-scanner) | Paper-trading bots on live Solana data, with a from-scratch gradient-boosted model and honest backtests | [Dashboard](https://memecoin-scanner-mu.vercel.app) |
+
+**Stack:** Python · TypeScript · JavaScript · SQL · FastAPI · Next.js · PostgreSQL · Supabase · Vercel · Railway · Claude API
+
+📫 [LinkedIn](https://www.linkedin.com/in/arshddha) · arshddha@gmail.com
